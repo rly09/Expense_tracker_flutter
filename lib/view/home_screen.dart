@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Expy")),
+        title: Center(child: Text("E X P Y")),
       ),
       body: SafeArea(
         child: Column(
